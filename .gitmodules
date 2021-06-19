@@ -1,0 +1,3 @@
+[submodule "fs-manager-hippo"]
+	path = fs-manager-hippo
+	url = https://github.com/RandomCoderOrg/fs-manager-hippo.git
